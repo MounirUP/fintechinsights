@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Stripe vs Adyen : que choisir en 2025 ?",
+    "date": "Il y a 3 jours",
+    "views": 1247,
+    "excerpt": "SaaS, retail, marketplace : notre grille de décision pour trancher entre Stripe et Adyen...",
+    "category": "psp"
+  },
+  {
+    "title": "Wero arrive en e-commerce : promesses vs réalités",
+    "date": "Il y a 1 semaine",
+    "views": 892,
+    "excerpt": "Le wallet européen se lance officiellement. Quels impacts pour les marchands ?",
+    "category": "innovation"
+  },
+  {
+    "title": "BNPL dans Chrome : impacts sur les paniers",
+    "date": "Il y a 2 semaines",
+    "views": 654,
+    "excerpt": "Google intègre le BNPL directement dans Chrome. Analyse des impacts sur la conversion...",
+    "category": "innovation"
+  },
+  {
+    "title": "Fraude +18% en 2024 : les nouveaux patterns",
+    "date": "Il y a 3 jours",
+    "views": 423,
+    "excerpt": "Deepfakes, manipulation IA, paiements instantanés... Les fraudeurs s’adaptent.",
+    "category": "securite"
+  },
+  {
+    "title": "ISO 20022 : dernière ligne droite",
+    "date": "Il y a 4 jours",
+    "views": 341,
+    "excerpt": "Migration obligatoire des virements SWIFT. Impact sur les corporates et les solutions B2B.",
+    "category": "regulation"
+  }
+]
