@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fintech Insights - Blog fintech et paiements</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Fintech Insights</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Accueil</a></li>
+        <li><a href="#">Articles</a></li>
+        <li><a href="#">Catégories</a></li>
+        <li><a href="#">Ressources</a></li>
+        <li><a href="#">À propos</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="filters">
+    <button class="filter-btn" data-category="all">Tous</button>
+    <button class="filter-btn" data-category="innovation">Innovation</button>
+    <button class="filter-btn" data-category="regulation">Régulation</button>
+    <button class="filter-btn" data-category="securite">Sécurité</button>
+    <button class="filter-btn" data-category="psp">PSP</button>
+  </section>
+
+  <main id="articles"></main>
+
+  <section class="newsletter">
+    <h2>Newsletter Fintech Insights</h2>
+    <p>Recevez chaque semaine les dernières analyses sur la fintech et les paiements.</p>
+    <form id="newsletterForm">
+      <input type="email" placeholder="Votre email" required>
+      <button type="submit">S’abonner</button>
+    </form>
+    <p id="newsletterMsg"></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Fintech Insights - Par Mounir Boukallit</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
